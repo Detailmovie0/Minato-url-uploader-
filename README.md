@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-URL-UPLOADER-BOT Logo">
+  <img src="https://graph.org/file/a3a3082bd3821ffb3cadd-1cd8fd80b747f98b7a.jpg" alt="VJ-URL-UPLOADER-BOT Logo">
 </p>
 <h1 align="center">
   VJ URL UPLOADER BOT
